@@ -9,6 +9,6 @@ public class Wizard
     {
         // initialise instance variables
         name = n;
-        health = h;
+        
     }
 }
